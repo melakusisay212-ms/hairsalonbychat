@@ -1,0 +1,9 @@
+SALON MANAGER - GITHUB BUILD READY
+
+1. Extract this ZIP.
+2. Upload the project contents to the root of a new GitHub repository.
+3. Use the main branch.
+4. Open GitHub -> Actions -> Build Android APK.
+5. The workflow builds the APK on GitHub and uploads app-debug.apk as an artifact.
+
+No Android Studio is required on the local PC.
